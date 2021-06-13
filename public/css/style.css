@@ -1,0 +1,181 @@
+body {
+    color: rgba(0,0,0,0.87);
+    font-family: 'Roboto',Helvetica,Arial,sans-serif;
+    font-size: 0.8125rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    margin: 0;
+    min-width: 18.75rem;
+}
+.box{
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+.box .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%; /* Adjust this value to move the positioned div up and down */
+    text-align: center;
+    width: 20%; /* Set the width of the positioned div */
+}
+div{
+    display: block;
+}
+.JwPp0e{
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 1.5rem;
+    padding-top: 1.5rem;
+}
+.gHz6xd{
+    background-clip: padding-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    height: 18.375rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    width: 18.75rem;
+}
+.Aopndd{
+    background-color: #fff;
+    border: .0625rem solid #dadce0;
+    -webkit-border-radius: 0.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+.Tc9hUd{
+    position: relative;
+}
+.OjOEXb {
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.OjOEXb, .ZizeYd, .O7utsb, .ZmqAt {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.R4EiSb {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    height: 4.5rem;
+    padding: 1rem 1rem 0.75rem;
+    position: relative;
+}
+.onkcGd, .onkcGd:visited {
+    color: #333;
+    cursor: pointer;
+    text-decoration: none;
+}
+.prWPdf {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    position: relative;
+}
+.kj3hr {
+    color: #fff;
+    display: block;
+    margin: 0 -0.25rem;
+    padding: 0 0.25rem;
+}
+.YVvGBb {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+}
+.csjh4b {
+    font-family: 'Google Sans',Roboto,Arial,sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    line-height: 1.75rem;
+    color: #fff;
+}
+.Nmpzvc {
+
+    -webkit-flex: 1 0 1rem;
+    flex: 1 0 1rem;
+}
+.TQYOZc {
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    min-height: 0;
+    padding: 1rem;
+    padding-top: 0.75rem;
+}
+.SZ0kZe {
+    border-top: .0625rem solid #e0e0e0;
+    line-height: 0;
+    padding: 0.25rem;
+}
+.F2CcI, .SZ0kZe {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+.PFLqgc {
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: revert;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.hhj3ub .PFLqgc.PagUde .VVnuU {
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: .8;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.qyN25 {
+    height: 15rem;
+    position: relative;
+    width: 100%;
+}
+.DShyMc-MzM0MTAxMjg5MjYz .p0oLxb:not(.RDPZE).aS18D {
+    background-color: #137333;
+    /*box-shadow: 0 1px 2px 0 rgb(19 115 51 / 30%), 0 2px 6px 2px rgb(19 115 51 / 15%);*/
+}
+.aS18D.p0oLxb {
+    -webkit-border-radius: 48px;
+    border-radius: 48px;
+    min-width: 120px;
+}
+.btn-lg.round {
+    border-radius: 48px;
+}
+textarea{
+    resize: none;
+}
+
+
